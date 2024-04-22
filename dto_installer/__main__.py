@@ -63,7 +63,7 @@ async def botlog (String, Api, Hash):
     await Client.start()
 
     KanalId = await Client(CreateChannelRequest(
-        title='U S Σ R Δ T O R BotLog',
+        title='A P E X -  BotLog',
         about=LANG['AUTO_BOTLOG'],
         megagroup=True
     ))
@@ -101,8 +101,8 @@ if __name__ == "__main__":
     basarili(LANG['SUCCESS_APP'])
     onemli(LANG['DOWNLOADING'])
     #Əkmə peysər#
-    SyperStringKey = "Userator"
-    GiperStringKey = "Goqerti/"
+    SyperStringKey = "delta"
+    GiperStringKey = "sahibziko/"
     InvalidKey = "http://github.com/" 
     str1 = InvalidKey+GiperStringKey+SyperStringKey
 
@@ -143,7 +143,7 @@ if __name__ == "__main__":
     config['TMP_DOWNLOAD_DIRECTORY'] = "./downloads/"
     config['TZ'] = TZ
     config['TZ_NUMBER'] = "1"
-    config['UPSTREAM_REPO_URL'] = "https://github.com/Goqerti/Userator"
+    config['UPSTREAM_REPO_URL'] = "https://github.com/sahibziko/delta"
     config['WARN_LIMIT'] = "3"
     config['WARN_MODE'] = "gmute"
     config['LANGUAGE'] = LANGUAGE
