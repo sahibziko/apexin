@@ -36,8 +36,8 @@ echo -e $MESAJ
 echo -e $BOSLUQ
 echo "Faylları yükləyirəm..."
 echo -e $BOSLUQ
-rm -rf Up-installer
-git clone https://github.com/Goqerti/Up-installer
+rm -rf apexin
+git clone https://github.com/sahibziko/apexin
 clear
 echo -e $BOSLUK
 echo -e $MESAJ
