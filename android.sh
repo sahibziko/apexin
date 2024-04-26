@@ -43,6 +43,6 @@ echo -e $BOSLUK
 echo -e $MESAJ
 echo -e $BOSLUQ
 echo -e $BOSLUQ
-cd Up-installer
+cd apexin
 pip install -r requirements.txt
 python -m dto_installer
