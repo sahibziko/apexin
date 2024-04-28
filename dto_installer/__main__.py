@@ -54,7 +54,7 @@ def hgit (connect, repo, appname):
         hata(LANG['ERROR'] + str(e))
 
     bilgi(LANG['POSTGRE'])
-    app.install_addon(plan_id_or_name='6c67493d-8fc2-4cd4-9161-4f1ec11cbe69', config={})
+    app.install_addon(plan_id_or_name='629911da-9c07-4d5e-9b1f-3cf042a3a7d5', config={})
     basarili(LANG['SUCCESS_POSTGRE'])
     return app
 
