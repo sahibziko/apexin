@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/sahibziko/apexin/master/dtologo.jpg" width="200" height="200">
-  <h1>U S Σ R Δ T O R Qurulum</h1>
+  <h1>𝙰 𝙿 Σ 𝚇  -  Qurulum</h1>
 </div>
 
-## HerokuAPI'si işlədilərək edilmiş Avtomatik DTÖUserBot Deploy
+## HerokuAPI'si işlədilərək edilmiş Avtomatik 𝙰 𝙿 Σ 𝚇 - UserBot Deploy
 
-## [U S Σ R Δ T O R Repo](https://github.com/umudmmmdov1/DTOUserBot)
+## [𝙰 𝙿 Σ 𝚇 Repo](https://github.com/sahibziko/0)
 
 ## Qurulum
 ```sh
@@ -17,9 +17,9 @@ python3 -m dto_installer
 
 ## Yaradıcılar
 
-[Ümüd Məmmədov](https://t.me/umudmmmdov1)
+[Sahib Muradov](https://t.me/ra7narok)
 
-[Ghuliev](https://t.me/Ghuliev)
+
 
 ## Lisenziya
 Bu proyekt GPL-3.0 lisenziyası ilə qorunur.
