@@ -129,7 +129,7 @@ if __name__ == "__main__":
     config['CLEAN_WELCOME'] = "True"
     config['CONSOLE_LOGGER_VERBOSE'] = "False"
     config['COUNTRY'] = COUNTRY
-    config['DEFAULT_BIO'] = "@UseratorOT"
+    config['DEFAULT_BIO'] = "@apexuserbot"
     config['GALERI_SURE'] = "60"
     config['CHROME_DRIVER'] = "/usr/sbin/chromedriver"
     config['GOOGLE_CHROME_BIN'] = "/usr/sbin/chromium"
@@ -147,7 +147,7 @@ if __name__ == "__main__":
     config['WARN_LIMIT'] = "3"
     config['WARN_MODE'] = "gmute"
     config['LANGUAGE'] = LANGUAGE
-    config['TELEGRAPH_SHORT_NAME'] = "Userator"
+    config['TELEGRAPH_SHORT_NAME'] = "Apex"
     config["TMP_DOWNLOAD_DIRECTORY"] = "./DOWNLOADS/"
 
     basarili(LANG['SUCCESS_CONFIG'])
