@@ -5,7 +5,7 @@
 
 ## HerokuAPI'si işlədilərək edilmiş Avtomatik 𝙰 𝙿 Σ 𝚇 - UserBot Deploy
 
-## [𝙰 𝙿 Σ 𝚇 Repo](https://github.com/sahibziko/0)
+<center> ## [𝙰 𝙿 Σ 𝚇 Repo](https://github.com/sahibziko/0)</center>
 
 ## Qurulum
 ```sh
