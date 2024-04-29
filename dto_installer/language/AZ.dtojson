@@ -2,7 +2,7 @@
     "__DTOJSON__": true,
     "LANGUAGE": "Azərbaycanca",
     "LANGCODE": "AZ",
-    "AUTHOR": "@umudmmmdov1",
+    "AUTHOR": "@ra7narok",
     "STRINGS": {
         "MAIN": {
             "INVALID_KEY": "(!) API Key səhvdir.",
@@ -13,8 +13,8 @@
             "SUCCESS_STRING": "(✓) StringSession alındı!",
             "CREATING_APP": "(i) Tətbiq yaradılır...",
             "SUCCESS_APP": "(✓) Tətbiq uğurla yaradıldı!",
-            "DOWNLOADING": "(i) U S Σ R Δ T O R yüklənir...",
-            "DOWNLOADED": "(✓) U S Σ R Δ T O R yüklənməsi uğurla başa çatdı!",
+            "DOWNLOADING": "(i) 𝙰 𝙿 Σ 𝚇 - yüklənir...",
+            "DOWNLOADED": "(✓) 𝙰 𝙿 Σ 𝚇 - yüklənməsi uğurla başa çatdı!",
             "DEPLOYING": "(i) Deploy proseduru başlayır... (Bu prosedur çox vaxt apara bilər)",
             "WRITING_CONFIG": "(i) Məlumatlar yazılır...",
             "SET_LANG": "(✓) Botunuz artıq {} dilindədir!",
